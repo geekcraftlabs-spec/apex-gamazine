@@ -1,0 +1,20 @@
+﻿export const servicesData = [
+  {
+    title: 'Gamazine',
+    description: 'Standard gamazine coating in any color. Durable, textured, and built to last over a decade with no maintenance required.',
+    price: 'R230 / bucket',
+    features: ['Covers 5m² per bucket', 'Hides cracks and imperfections', 'Available in any color', 'No maintenance needed']
+  },
+  {
+    title: 'Glamour Coat',
+    description: 'Premium glamour coat finish with a stunning shimmer effect. Perfect for high-end residential and commercial spaces.',
+    price: 'R330 / bucket',
+    features: ['Covers 5m² per bucket', 'Luxurious shimmer finish', 'Available in any color', 'Premium durability']
+  },
+  {
+    title: 'Epoxy Floors',
+    description: 'Seamless, glossy epoxy flooring that resists wear and adds stunning style to any space.',
+    price: 'Custom Quote',
+    features: ['Seamless finish', 'High durability', 'Resists wear and tear', 'Available in any color']
+  }
+]
